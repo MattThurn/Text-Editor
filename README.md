@@ -10,4 +10,4 @@ This is a text editor app. It is a PWA so you can install it. You can type whate
 
 Repo: https://github.com/MattThurn/Text-Editor
 
-Website:
+Website: https://just-another-text-editor-mt.herokuapp.com/
